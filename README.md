@@ -6,9 +6,9 @@ https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598
 ==========================================================================================
 You can download the application and install it on Android by accessing the "Application Build" folder. 
 For the markers, please access the "Image Targets (Marker)" folder.
-.
+
 or
-.
+
 You can download it from my itch.io on 
 https://ahmdshahal.itch.io/ar-pengenalan-hewan-ternak
 ==========================================================================================
@@ -17,7 +17,7 @@ Unity Packages in this project:
 https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410
 2. Farm Animals Set by Vertex Cat
 https://assetstore.unity.com/packages/3d/farm-animals-set-97945
-.
+
 Sound in this project:
 1. Sheep_Bleat.wav
 https://freesound.org/people/n_audioman/sounds/321967/#
