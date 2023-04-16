@@ -7,8 +7,8 @@ https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598
 -------------------------------------------------
 You can download the application and install it on Android by accessing the "Application Build" folder. 
 For the markers, please access the "Image Targets (Marker)" folder.
-or
-You can download it from my itch.io on 
+Or
+you can download it from my itch.io on 
 https://ahmdshahal.itch.io/ar-pengenalan-hewan-ternak
 -------------------------------------------------
 
