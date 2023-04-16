@@ -3,15 +3,17 @@
 This project is intended to complete the final project of the Metaverse Engineer program with Train4best partners held by Kominfo. Created by Ahmad Shahal Mahfudz and Aprilliana Sihite, ME2 Class.
 To open this Unity Project, please install Vuforia Engine from Unity Asset Store. Because there are files in the package that are too large. Follow link below to access Vuforia Engine on Unity Asset Store
 https://assetstore.unity.com/packages/templates/packs/vuforia-engine-163598
-==========================================================================================
+.
+.
 You can download the application and install it on Android by accessing the "Application Build" folder. 
 For the markers, please access the "Image Targets (Marker)" folder.
-
+.
 or
-
+.
 You can download it from my itch.io on 
 https://ahmdshahal.itch.io/ar-pengenalan-hewan-ternak
-==========================================================================================
+.
+.
 Unity Packages in this project:
 1. RPG Poly Pack - Lite by Gigel
 https://assetstore.unity.com/packages/3d/environments/landscapes/rpg-poly-pack-lite-148410
